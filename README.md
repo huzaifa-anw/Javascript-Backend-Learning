@@ -1,2 +1,1 @@
-# backend project
-# in javascript
+# backend project in javascript
